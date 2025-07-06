@@ -3,7 +3,7 @@
 This C program prints your name in large, stylized ASCII-art letters using a custom grid, while filling the background with your name repeatedly.
 
 ## 💡 Example:
-If you enter `Akhilesh`, the output will be the word "AKHIL" drawn using letters, and the background will also be filled with the characters of "Akhil".
+If you enter `Akhilesh`, the output will be the word "AKHILESH" drawn using letters, and the background will also be filled with the characters of "Akhilesh".
 
 ## ✨ Features:
 - Renders each letter (A-Z) using a pixel-like grid.
@@ -14,6 +14,9 @@ If you enter `Akhilesh`, the output will be the word "AKHIL" drawn using letters
 ```bash
 gcc ascii-name.c -o ascii-name
 ./ascii-name
+```
 
-![Example Output]
-(image.png)
+
+## 📷 Output
+
+![Example Output](image.png)
