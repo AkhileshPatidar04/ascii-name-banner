@@ -15,5 +15,5 @@ If you enter `Akhilesh`, the output will be the word "AKHIL" drawn using letters
 gcc ascii-name.c -o ascii-name
 ./ascii-name
 
-## output
-![Banner Output](banner_output.png)
+![Example Output]
+(image.png)
